@@ -1,1 +1,1 @@
-# pulsetrade-privacy
+# Pulsetrader-privacy
